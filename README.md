@@ -1,21 +1,38 @@
-<div align="center">
+# 👋 Salut, moi c’est Quentin
 
-<img src="https://github-readme-stats.vercel.app/api?username=Quentin068&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quentin068&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+Bienvenue sur mon profil GitHub 🚀  
+Développeur passionné par le code, les projets techniques et l’expérimentation.
 
-<br/>
-<br/>
+---
 
-<h3>🚧 Actuellement sur :</h3>
-<a href="LIEN_VERS_VOTRE_PROJET">
-  <b>Nom de votre projet</b>
-</a>
+## 📊 Mes statistiques GitHub
 
-<br/>
-<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quentin068&show_icons=true&theme=tokyonight&hide_border=true)
 
-<a href="LIEN_VERS_VOTRE_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quentin068&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
+---
+
+## 🔥 Activité GitHub
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Quentin068&theme=tokyonight&hide_border=true)
+
+---
+
+## 🛠️ Tech & outils
+
+- Python 🐍  
+- JavaScript / TypeScript  
+- Git & GitHub  
+- IA / Simulation / Algo  
+- (ajoute ce que tu veux ici 👀)
+
+---
+
+## 📫 Me contacter
+
+- GitHub : [@Quentin068](https://github.com/Quentin068)
+
+---
+
+⭐ N’hésite pas à explorer mes repos et à laisser une étoile si un projet te plaît !
