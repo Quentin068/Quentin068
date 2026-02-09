@@ -1,9 +1,4 @@
-# 👋 Quentin Mesnel-Terreau
-💻 Développeur logiciel
-
----
-
-## 📊 Statistiques clés GitHub
+## GitHub Key Statistics
 
 <p align="center">
   <img
@@ -15,7 +10,7 @@
 
 ---
 
-## 🔥 Régularité & engagement
+## Consistency and Engagement
 
 <p align="center">
   <img
@@ -27,7 +22,7 @@
 
 ---
 
-## 🧪 Activité de contribution (vue long terme)
+## Contribution Activity (Long-Term View)
 
 <p align="center">
   <img
@@ -38,7 +33,7 @@
 
 ---
 
-## 🛠️ Langages utilisés
+## Programming Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
@@ -52,10 +47,10 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TON-LINKEDIN">
+  <a href="https://www.linkedin.com/in/quentin-mesnel-terreau-459382268/">
     <img src="https://img.shields.io/badge/LinkedIn-Quentin%20Mesnel--Terreau-blue?logo=linkedin"/>
   </a>
 </p>
