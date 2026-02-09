@@ -1,56 +1,51 @@
-## GitHub Key Statistics
+<div align="center">
 
-<p align="center">
+  ## Overview
+  
   <img
     src="https://github-readme-stats.vercel.app/api?username=Quentin068&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"
     height="170"
-    onerror="this.style.display='none';"
+    alt="Overview Stats"
   />
-</p>
-
----
-
-## Consistency and Engagement
-
-<p align="center">
+  
+  <br/>
+  
+  ## Consistency & Rhythm
+  
   <img
     src="https://streak-stats.demolab.com?user=Quentin068&theme=tokyonight&hide_border=true"
     height="160"
-    onerror="this.style.display='none';"
+    alt="Streak Stats"
   />
-</p>
-
----
-
-## Contribution Activity (Long-Term View)
-
-<p align="center">
+  
+  <br/>
+  
+  ## Contribution History
+  
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Quentin068&theme=tokyo-night&hide_border=true"
-    onerror="this.style.display='none';"
+    alt="Activity Graph"
   />
-</p>
-
----
-
-## Programming Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white"/>
+  
+  <br/>
+  
+  ## Tech Stack
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black"/>
-</p>
-
----
-
-## Contact
-
-<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  
+  <br/>
+  <br/>
+  
+  ## Contact Me
+  
   <a href="https://www.linkedin.com/in/quentin-mesnel-terreau-459382268/">
-    <img src="https://img.shields.io/badge/LinkedIn-Quentin%20Mesnel--Terreau-blue?logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Quentin%20Mesnel--Terreau-0077B5?logo=linkedin&logoColor=white"/>
   </a>
-</p>
+
+</div>
