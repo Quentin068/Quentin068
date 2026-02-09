@@ -9,6 +9,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=Quentin068&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"
     height="170"
+    onerror="this.style.display='none';"
   />
 </p>
 
@@ -20,6 +21,7 @@
   <img
     src="https://streak-stats.demolab.com?user=Quentin068&theme=tokyonight&hide_border=true"
     height="160"
+    onerror="this.style.display='none';"
   />
 </p>
 
@@ -30,6 +32,7 @@
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Quentin068&theme=tokyo-night&hide_border=true"
+    onerror="this.style.display='none';"
   />
 </p>
 
