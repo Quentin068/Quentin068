@@ -47,5 +47,8 @@
   <a href="https://www.linkedin.com/in/quentin-mesnel-terreau-459382268/">
     <img src="https://img.shields.io/badge/LinkedIn-Quentin%20Mesnel--Terreau-0077B5?logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:quentin.mester@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Quentin%20Mesnel--Terreau-D14836?logo=gmail&logoColor=white"/>
+  </a>
 
 </div>
