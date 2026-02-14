@@ -1,7 +1,18 @@
 <div align="center">
 
   ## Overview
-  
+  <img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Quentin068&theme=tokyonight&hide_border=true" 
+  alt="GitHub Streak" 
+/>
+
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=Quentin068&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" 
+  alt="Trophies" 
+/>
+
+
+
   <img
     src="https://github-readme-stats.vercel.app/api?username=Quentin068&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"
     height="170"
